@@ -1,18 +1,8 @@
 56vfs
 =====
-56vfs是56网的视频文件系统，包括以下三个不部分：
-1，文件分发系统（主要）
-2，文件分发信息管理系统
-3，文件分发信息查询系统
-
-该系统是56视频cdn的核心系统，加上视频调度部分，基本上可以满足大部分视频网站的cdn需求。
-
-详细的文档及系统结构见/doc目录下文档
-
-欢迎使用，欢迎二次开发。
-
-我的邮箱：jczhang AT 126.com   danezhang77 AT gmail.com
-
-欢迎加入QQ讨论群：363058492
-
-www.56.com video file system
+56 the VFS is 56 network video file system, including the following three parts:
+1. The file distribution system (main)
+2. Documents distributed information management system
+3. Documents distributed information query system
+The core of the system is 56 video CDN system, combined with video scheduling, can basically meet the demand of most of the video website CDN.Detailed documentation and system structure/doc directory document
+My email: jiaxiongbaobao@gmail.com
